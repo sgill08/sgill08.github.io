@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : # "Your Name / Site Title"
-title_separator          : # "-"
-name                     : # &name "Your Name"
+title                    :  "Your Name / Site Title"
+title_separator          :  "-"
+name                     :  &name "Your Name"
 description              : # &description "personal description"
 url                      : https://sgill08.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "sgill08/sgill08.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           :  "profile.png"
   name             : "Seth Gilliland"
   pronouns         : "He/His"  
   bio              : "A student in a computer science program."
