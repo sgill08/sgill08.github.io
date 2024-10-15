@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Overview
 A student in a computer science program that is intrested in coding languages like Java and Python.
 ## Education
@@ -29,4 +38,5 @@ A student in a computer science program that is intrested in coding languages li
 
 -Game development club member 11th grade
 
--Nation honor society member 11th grade
+-National honor society member 11th grade
+
