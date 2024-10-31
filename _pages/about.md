@@ -40,3 +40,11 @@ A student in a computer science program that is intrested in coding languages li
 
 -National honor society member 11th grade
 
+## Certifications
+
+- Oracle Database Foundations (1Z0-006)
+
+## Projects
+https://github.com/sgill08/Premier-League-Stats
+
+
