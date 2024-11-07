@@ -45,6 +45,9 @@ A student in a computer science program that is intrested in coding languages li
 - Oracle Database Foundations (1Z0-006)
 
 ## Projects
+
+Helps visualize team stats from the 2023-24 Premier League season.
+
 https://github.com/sgill08/Premier-League-Stats
 
 
