@@ -50,4 +50,10 @@ Helps visualize team stats from the 2023-24 Premier League season.
 
 https://github.com/sgill08/Premier-League-Stats
 
+Helps make a wreslting bracket automaticly.
+
+https://github.com/sgill08/Wresting-Bracket-Maker
+
+
+
 
