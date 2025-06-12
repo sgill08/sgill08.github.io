@@ -16,7 +16,7 @@ A student in a computer science program that is intrested in coding languages li
 
 -Took Computer Science Principles and currently taking Computer Science A.
 
--3.89 unweighted GPA
+-3.9 unweighted GPA
 ## Volunteer experience
 -Helped with open houses for my magnet program. 
 
@@ -54,6 +54,12 @@ Helps make a wreslting bracket automaticly.
 
 https://github.com/sgill08/Wresting-Bracket-Maker
 
+The war card game
 
+https://github.com/sgill08/war-card-game
+
+The front-end development of the game "Welcome To"
+
+https://github.com/sgill08/WelcomeTo-game
 
 
