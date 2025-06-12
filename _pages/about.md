@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Overview
-A student in a computer science program that is intrested in coding languages like Java and Python.
+I am a student in a computer science program that is intrested in coding languages like Java and Python. Who has worked on multiple projects (linked at the bottem).
 ## Education
 -Java foundations and fundmental class. 
 
@@ -46,19 +46,19 @@ A student in a computer science program that is intrested in coding languages li
 
 ## Projects
 
-Helps visualize team stats from the 2023-24 Premier League season.
+Helps visualize team stats from the 2023-24 Premier League season. (More description in the link)
 
 https://github.com/sgill08/Premier-League-Stats
 
-Helps make a wreslting bracket automaticly.
+Helps make a wreslting bracket automaticly. (More description in the link)
 
 https://github.com/sgill08/Wresting-Bracket-Maker
 
-The war card game
+The war card game (More description in the link)
 
 https://github.com/sgill08/war-card-game
 
-The front-end development of the game "Welcome To"
+The front-end development of the game "Welcome To" (More description in the link)
 
 https://github.com/sgill08/WelcomeTo-game
 
