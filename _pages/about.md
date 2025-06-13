@@ -60,7 +60,7 @@ This app is meant to help visualize Premier League stats that a team has during 
 
 This was a group project. Where this application is meant to make a wrestling bracket automaticly after putting in excel files. (More description in the link)
 
-[Wreslting bracket maker, Python](https://github.com/sgill08/Wresting-Bracket-Maker)
+[Wreslting bracket maker, Python](https://github.com/sgill08/Wreslting-Bracket-Maker)
 
 This code is meant to run simulations of the war card game. With 52 cards divided between 1 player and 1 computer where the computer deals and checks the cards.(More description in the link)
 
