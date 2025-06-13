@@ -20,14 +20,13 @@ I am a student in a computer science program that is intrested in coding languag
 
 
 ## Volunteer experience
--Helped with open houses for my magnet program. 
+-Helped with open houses for my magnet program. (Toured groups around the school while explaining about the ITOA program)
 
--Marched in fourth of July parades. 
+-Marched in fourth of July parades. (Marched in multiple 4th of July parades with my high school's marching band)
 
--Helped with holiday shops, book fairs and concession stands.
+-Helped with holiday shops, book fairs and concession stands. (Helped setup the holiday shop, Helped keep shelves organized and help customer find merchandise, and Helped serve food and take money from customers.)
 
--NHS Arts and Crafts fair
-  -Helped people pack up items and take them back to their cars.
+-NHS Arts and Crafts fair (Helped people pack up items and take them back to their cars.)
 ## Achivements
 -Certified in Oracle SQL
 
