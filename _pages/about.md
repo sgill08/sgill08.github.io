@@ -10,27 +10,36 @@ redirect_from:
 # Overview
 I am a student in a computer science program that is intrested in coding languages like Java and Python. Who has worked on multiple projects (linked at the bottem).
 ## Education
--Java foundations and fundmental class. 
+-Multiple AP Classes including AP Computer Science Principles and AP Computer Science A
 
--Database Foundations and design. 
+-Multiple computer classes including Java Foundations and Java Fundamental and Database Foundations and Database Design programing SQL.
 
--Took Computer Science Principles and currently taking Computer Science A.
+-Expected graduation year, 2026
 
 -3.9 unweighted GPA
+
+
 ## Volunteer experience
 -Helped with open houses for my magnet program. 
 
 -Marched in fourth of July parades. 
 
 -Helped with holiday shops, book fairs and concession stands.
+
+-NHS Arts and Crafts fair
+  -Helped people pack up items and take them back to their cars.
 ## Achivements
 -Certified in Oracle SQL
 
 -Made honor roll 8 times
 
 -Member of national honor society
+
+-Presidental Award of Excellence, 2022
+
+-Matthew Daughaday Memorial Award for Exemplifying Respect, Advocacy, Kindness and Integrity, 2022.
 ## Extracurriculars
--Played baseball during 9th and 10th grade
+-Played baseball during 9th, 10th and 11th grade
 
 -Robotics club member 10th and 11th grade
 
