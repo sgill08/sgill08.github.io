@@ -20,7 +20,7 @@ I am a student in a computer science program that is intrested in coding languag
 
 
 ## Volunteer experience
--Helped with open houses for my magnet program. (Toured groups around the school while explaining about the ITOA program)
+-Helped with open houses for my magnet program. (Toured groups around the school while explaining about the magnet program)
 
 -Marched in fourth of July parades. (Marched in multiple 4th of July parades with my high school's marching band)
 
