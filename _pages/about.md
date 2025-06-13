@@ -54,20 +54,23 @@ I am a student in a computer science program that is intrested in coding languag
 
 ## Projects
 
-Helps visualize team stats from the 2023-24 Premier League season. (More description in the link)
+This app is meant to help visualize Premier League stats that a team has during the 2023-24 season. This app contains many features to help with searching for data. (More description in the link)
 
 https://github.com/sgill08/Premier-League-Stats
 
-Helps make a wreslting bracket automaticly. (More description in the link)
+This was a group project. Where this application is meant to make a wrestling bracket automaticly after putting in excel files. (More description in the link)
 
 https://github.com/sgill08/Wresting-Bracket-Maker
 
-The war card game (More description in the link)
+This code is meant to run simulations of the war card game. With 52 cards divided between 1 player and 1 computer where the computer deals and checks the cards.(More description in the link)
 
 https://github.com/sgill08/war-card-game
 
-The front-end development of the game "Welcome To" (More description in the link)
+This application is the front-end development of the board game, "welcome to". This application contains many features from the board game like checkboxes for checking off pools or parks. (More description in the link)
 
 https://github.com/sgill08/WelcomeTo-game
 
+## Author
+Seth G
+Contact - sagill0730@gmail.com
 
