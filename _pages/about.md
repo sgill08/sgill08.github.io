@@ -73,5 +73,4 @@ This application is the front-end development of the board game, "welcome to". T
 ## Author
 Seth G
 
-Contact - sagill0730@gmail.com
 
