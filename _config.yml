@@ -21,14 +21,14 @@ repository               : "sgill08/sgill08.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  "seth.jpg"
-  name             : "Seth Gilliland"
+  avatar           :  ""
+  name             : "Seth G"
   pronouns         : "He/His"  
   bio              : "A student in a computer science program."
-  location         : "Maryland"
+  location         : ""
   employer         : "Student"
   uri              : # URL
-  email            : "sagill0730@gmail.com" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
